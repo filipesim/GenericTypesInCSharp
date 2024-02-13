@@ -1,0 +1,14 @@
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\bin\Debug\net8.0\GenericTypesInCSharp.exe
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\bin\Debug\net8.0\GenericTypesInCSharp.deps.json
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\bin\Debug\net8.0\GenericTypesInCSharp.runtimeconfig.json
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\bin\Debug\net8.0\GenericTypesInCSharp.dll
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\bin\Debug\net8.0\GenericTypesInCSharp.pdb
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.AssemblyInfoInputs.cache
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.AssemblyInfo.cs
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.csproj.CoreCompileInputs.cache
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.dll
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\refint\GenericTypesInCSharp.dll
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.pdb
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\GenericTypesInCSharp.genruntimeconfig.cache
+C:\home\projetos\GenericTypesInCSharp\GenericTypesInCSharp\obj\Debug\net8.0\ref\GenericTypesInCSharp.dll
